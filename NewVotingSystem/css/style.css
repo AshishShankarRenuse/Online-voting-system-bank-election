@@ -1,0 +1,9 @@
+.leftpane{
+    float: left;
+    margin-left: 30px;
+}
+
+.rightpane{
+    float: right;
+    margin-right: 30px;
+}
